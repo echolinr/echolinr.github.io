@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](media/icon.svg)
 
 
 # Lin Zhai (Lynn)
