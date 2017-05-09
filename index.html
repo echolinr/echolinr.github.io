@@ -11,9 +11,32 @@
   <div id="app"></div>
 </body>
 <script>
-  window.$docsify = {
+window.$docsify = {
     name: '',
-    repo: ''
+    repo: '',
+    loadSidebar: true,
+    loadNavbar: true,
+    coverpage: true,
+    maxLevel: 4,
+    themeColor: '#ff5722',
+    search: {
+      noData: {
+        '/zh/': '未找到!',
+        '/': 'No results!'
+      },
+      paths: 'auto',
+      placeholder: {
+        '/zh/': '搜索',
+        '/': 'Search'
+      }
+    },
+    subMaxLevel: 2
+    
+  }
+</script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
