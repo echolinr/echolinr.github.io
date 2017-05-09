@@ -1,6 +1,9 @@
 <!-- _coverpage.md -->
 
-# Lin Zhai
+![logo](_media/icon.svg)
+
+
+# Lin Zhai (Lynn)
 
 > Technical Writer, API Documentation.
 
@@ -8,10 +11,11 @@
 - Extensive experience of web user interface development (HTML, CSS, Java, JavaScript, Angular, Node JS).
 - Ability to create developer guides and online help for external API audiences with high standards for clarity, accuracy, and timeliness of publication.
 - Familiar with machine learning and data analytics concepts (linear regressions, tree models, support vector machines).
-- Strong communication skills and enjoy working in a fast-paced, cross-functional and agile development environment.
+- Strong communication skills and enjoy working in a fast-paced, cross-functional and agile development environment. 
 
-[Prifile](https://github.com/QingWei-Li/docsify/)
-[Work Samples](#docsify)
+
+[Profile](#profile)
+[Work Samples](#project/project_a.md)
 
 <!-- background color -->
 ![color](#fff)

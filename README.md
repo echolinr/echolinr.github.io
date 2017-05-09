@@ -1,3 +1,4 @@
-# Headline
+# About this site
 
-> An awesome project.
+> A personal website to show profile and work sample using a documentation friendly framework.
+> 
