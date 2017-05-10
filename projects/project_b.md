@@ -1,4 +1,4 @@
-# Project A
+# Project B
 
 > An awesome project.
 

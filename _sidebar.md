@@ -1,6 +1,5 @@
 - [<h2>Profile</h2>](/)
-- Project A
-  - [Quick Start](a_qs.md)
-
 - Project
-  - [Project A](projects/project_a.md)
+  - [Quick Start](projects/project_a.md)
+- Project B
+  - [Quick Start](projects/project_b.md)
