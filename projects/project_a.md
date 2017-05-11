@@ -14,7 +14,7 @@ To get a satisfaction level:
 
 1. Select an answer for each item in the form. 
     - refer to [index](./projects/project_a?id=index) to see detailed description of each field.
-2. Click `Caculate` to view the satisfacton level. The value is in a scale of 0 to 1.
+2. Click `Calculate` to view the satisfacton level. The value is in a scale of 0 to 1.
 
 ## Add to database
 
