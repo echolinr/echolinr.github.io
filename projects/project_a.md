@@ -4,7 +4,7 @@
 
 ## Visit the System
 
-In your browser, visit the link https://dumbledorearmy.shinyapps.io/. 
+In your browser, visit the link https://dumbledorearmy.shinyapps.io/dasapp/. 
 
 ## Get a satisfaction level
 
@@ -13,7 +13,7 @@ The system estimates an employee's satisfaction level based on that person's wor
 To get a satisfaction level:
 
 1. Select an answer for each item in the form. 
-    - refer to [index](https://docsify.js.org/#/quickstart?id=loading-dialog) to see detailed description of each field.
+    - refer to [index](./projects/project_a?id=index) to see detailed description of each field.
 2. Click `Caculate` to view the satisfacton level. The value is in a scale of 0 to 1.
 
 ## Add to database
@@ -34,32 +34,32 @@ To provide feedback:
 ## Index
 
 - Name
-    Name of the employee. value type: string.
+    - Name of the employee. value type: string.
 - Last Evaluation
-    Score of the employee in this last evaluation, on a scale of 0 to 1. value type: decimal.
+    - Score of the employee in this last evaluation, on a scale of 0 to 1. value type: decimal.
 - Number of Projects
-    Number of projects the employeed has completed in the company. value tyep: integer.
+    - Number of projects the employeed has completed in the company. value tyep: integer.
 - Average Monthly Hours
-    Average number of working hours in one month of the employee. value type: integer.
+    - Average number of working hours in one month of the employee. value type: integer.
 - Time Spent in Company
-    Number of years the employee has been working on this company, on a sclae of 0 to 12. value type: integer.
+    - Number of years the employee has been working on this company, on a sclae of 0 to 12. value type: integer.
 - Work Accident
-    `yes` means there have beeen reported accident caused by the employee. `no` means there was not.
+    - `yes` means there have beeen reported accident caused by the employee. `no` means there was not.
 - Left
-    `yes` means the employee has already left the compnay. `no` means the person is still a current employee.
+    - `yes` means the employee has already left the compnay. `no` means the person is still a current employee.
 - Promotion Within 5 Years
-    `yes` means the employee has been promoted to higher position in the last five years. `no` mean not.
+    - `yes` means the employee has been promoted to higher position in the last five years. `no` mean not.
 - Department
-    Department to which the employee belongs.
+    - Department to which the employee belongs.
 - Salary
-    Categroical value of the employee's salary. The categroy `low`, `medium`, `high` is defined by HR department's definition.
+    - Categroical value of the employee's salary. The categroy `low`, `medium`, `high` is defined by HR department's definition.
 
 - Company Name
-    the name of the company.
+    -  Name of your company.
 
 - Email Address
-    Email address of HR staff who is using this system.
+    - Email address of HR staff who is using this system.
 - Grade the product
-    On a sclae of 0 to 10, how would you rate this system. 10 being the highest.
+    - On a sclae of 0 to 10, how would you rate this system. 10 being the highest.
 - Comment
-    Comment for the system.
+    - Comment for the system.
