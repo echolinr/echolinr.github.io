@@ -1,5 +1,5 @@
 - [<h2>Profile</h2>](/)
-- HR Satisfaction Level
-  - [User Guide](projects/project_a.md)
+- Project
+  - [Quick Start](projects/project_a.md)
 - Project B
   - [Quick Start](projects/project_b.md)
