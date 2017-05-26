@@ -1,5 +1,5 @@
 - [<h2>Profile</h2>](/)
-- Project
-  - [Quick Start](projects/project_a.md)
-- Project B
+- REST API Doc
+  - [User Guide](projects/project_a.md)
+- 
   - [Quick Start](projects/project_b.md)
