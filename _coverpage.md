@@ -17,4 +17,4 @@
 [My Github](https://github.com/echolinr)
 
 <!-- background color -->
-![color](#fff)
+![color](#background: linear-gradient(to left bottom, hsl(233, 100%, 85%) 0%,hsl(5, 100%, 85%) 100%))
