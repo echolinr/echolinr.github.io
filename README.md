@@ -19,10 +19,10 @@
 * Use the [link](http://docs.hillstonenet.com/en/Content/3_Deploy_Your_Device/deploy_your_device.htm) to see the writing sample.
 ---
 **StoneOS Cookbook**  
-* A collection of scenario based recipes for StoneOS firewalls . 
+* A collection of scenario based recipes for StoneOS firewalls. 
 * Use this [link](http://docs.hillstonenet.com/en/Content/Cookbook/intro.htm) to see the book.
 ---
-**REST API Endpoit**  
+**REST API Endpoint**  
 * Earthquake forecast.   
 * Writing sample: 
 ---
