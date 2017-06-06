@@ -1,5 +1,5 @@
 - [<h2>Profile</h2>](/)
-- REST API Doc
-  - [User Guide](projects/project_a.md)
+- API Doc Sample
+  - [Earthquake Forecast](projects/project_a.md)
 - 
-  - [Quick Start](projects/project_b.md)
+  - [Sample B](projects/project_b.md)

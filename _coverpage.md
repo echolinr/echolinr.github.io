@@ -13,8 +13,8 @@
 - I enjoy working in a fast-faced, cross-functional and agile development environment. 
 
 
-[Profile](#profile) 
-[Work Samples](#projects/project_a.md)
+[My Profile](#profile) 
+[My Github](https://github.com/echolinr)
 
 <!-- background color -->
 ![color](#fff)
