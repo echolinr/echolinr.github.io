@@ -24,7 +24,7 @@
 ---
 **REST API Endpoint**  
 * Earthquake forecast.   
-* Writing sample: 
+* Writing sample [link](#projects/project_a.md)
 ---
 
 ## My Coding Projects 
@@ -36,12 +36,14 @@
 * Github links: Hazard map [repo](https://github.com/echolinr/Ride-Share-API), Server API [repo](https://github.com/echolinr/USGS-MAP-API). 
 ---
 **Ride Share API**
-* as developer
+* As developer, I created an application which can create, update, delete and get (CRUD) both drivers and passengers.
+* Technology: Java, JavaScript, MongoDB, MongoLink, Restful API.
 * Github link: [repo](https://github.com/echolinr/Ride-Share-API)
 ---
 **RStudio Shiny App**
-*  HR Satisfaction Level 
-* as data analyst
+* This is an application to predict an employee's satisfaction level using Random Forest Tree method.
+* As the data analyst, I collected data, found and validate the optimal model to predict outcome.
+* Technology: RStudio, RShiny, Programming R.
 * Github link: [repo](https://github.com/echolinr/shinyapp-hr-satisfaction) 
 
 # Technology  
