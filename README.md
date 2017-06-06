@@ -24,7 +24,7 @@
 ---
 **REST API Endpoint**  
 * Earthquake forecast.   
-* Writing sample [link](#projects/project_a.md)
+* Writing sample [link](#/projects/project_a)
 ---
 
 ## My Coding Projects 
