@@ -879,7 +879,7 @@ section.cover.has-mask .mask{
     color: #0074D9;
     color: var(--theme-color, #0074D9);
     display: inline-block;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     /* font-size: 1.05rem; */
     letter-spacing: 1.6px;
     letter-spacing: 0.1rem;
