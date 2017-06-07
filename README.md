@@ -10,32 +10,11 @@
 <span class="tag">PMP Certified</span>
 <span class="tag">Agile/Scrum</span>
 
-## Writing Samples
-
-Here are some examples of my writing work.
-> 
-**Firewall Deployment Guide**  
-* This section introduces basic data flow of a firewall device and its typical deployment modes.   
-* Use the [link](http://docs.hillstonenet.com/en/Content/3_Deploy_Your_Device/deploy_your_device.htm) to see the writing sample.
----
-**StoneOS Cookbook**  
-* A scenario-based cookbook which contains a set of recipes of configuration instructions for StoneOS devices.
-* Use this [link](http://docs.hillstonenet.com/en/Content/Cookbook/intro.htm) to see the book.
----
-**REST API Endpoint**  
-* An earthquake aftershock forecast web application.
-* Writing sample [link](projects/project_a.md).
----
-**Virtual Firewall Guide** 
-* Owner of technical documents, marketing materials and training contents of Hillstone virtual firewall solutions installed on AWS, Aliyun,VMWare ESXi, KVM and OpenStack. 
-* Install Guide download link: [PDF](http://kb.hillstonenet.com/en/wp-content/uploads/2016/11/CloudEdge-Deployment-Guide-2.pdf).
-
-
-## Programming Projects 
+## Projects 
 
 > 
 **USGS Earthquake Forecast Map Application**
-* My role: As a developer, I created this hazard map website to show aftershock forecast of earthquakes.
+* My role: As developer, I created this hazard map website to show aftershock forecast of earthquakes.
 * Functionalities: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
 * Technology: Built the website With Angular 2 (and 4) and TypeScript, the interactive map with Leaflet, the report charts with D3, and created data server with Rest API in JSON format.
 * Github links: Hazard map [repo](https://github.com/echolinr/Ride-Share-API), Server API [repo](https://github.com/echolinr/USGS-MAP-API). 
@@ -48,9 +27,34 @@ Here are some examples of my writing work.
 ---
 **RStudio Shiny App**
 * This is an application to predict an employee's satisfaction level using Random Forest Tree method.
-* As the data analyst, I collected data, found and validate the optimal model to predict outcome.
+* As data analyst, I collected data, found and validate the optimal model to predict outcome.
 * Technology: RStudio, RShiny, Programming R.
 * Github link: [repo](https://github.com/echolinr/shinyapp-hr-satisfaction).
+---
+**Network Security Solutions**
+* Hands-on, documented and tested various cybersecurity products, including Next Generation Firewalls, Data Center Firewalls, Cloud Security solutions, Web Application Firewalls (WAF) and IPS.
+* Wrote techinical materials of functions like policy, routing, authentication, IPS, HA, VPN, AV, Sandbox, QoS, cloud cyber security. 
+* My work includes install guide, user guide, web help, quick start, tutorials, release notes, specification, use case, and more.
+
+## Writing Samples
+
+Here are some examples of my writing work.
+> 
+**USGS Earthquake Forecast Deployment and API Documentation**  
+* An earthquake aftershock forecast web application using USGS forecast model.
+* Writing sample [link](projects/project_a.md).
+---
+**NG Firewall Deployment Guide**  
+* This section introduces basic data flow of a firewall device and its typical deployment modes.   
+* Use the [link](http://docs.hillstonenet.com/en/Content/3_Deploy_Your_Device/deploy_your_device.htm) to see the writing sample.
+---
+**Dummy's Guide to Network Security**  
+* A scenario-based cookbook which contains a set of recipes of configuration instructions for StoneOS devices.
+* Use this [link](http://docs.hillstonenet.com/en/Content/Cookbook/intro.htm) to see the book.
+---
+**Cloud Security Firewall Guide** 
+* Owner of technical documents, marketing materials and training contents of Hillstone virtual firewall solutions installed on AWS, Aliyun,VMWare ESXi, KVM and OpenStack. 
+* Install Guide download link: [PDF](http://kb.hillstonenet.com/en/wp-content/uploads/2016/11/CloudEdge-Deployment-Guide-2.pdf).
 
 # Technology  
 
