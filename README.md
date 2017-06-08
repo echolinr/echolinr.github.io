@@ -13,7 +13,8 @@
 ## Projects 
 
 > 
-**USGS Earthquake Forecast Map Application**
+**USGS Earthquake Forecast Map Application**   
+![logo](media/usgsmap.png) ![logo](media/usgsd3.png) 
 * My role: As developer, I created this hazard map website to show aftershock forecast of earthquakes.
 * Functionalities: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
 * Technology: Built the website With Angular 2 (and 4) and TypeScript, the interactive map with Leaflet, the report charts with D3, and created data server with Rest API in JSON format.
@@ -25,7 +26,8 @@
 * Technology: Java, JavaScript, Spark, Jackson, MongoDB, MongoLink, Restful API.
 * Github link: [repo](https://github.com/echolinr/Ride-Share-API).
 ---
-**RStudio Shiny App**
+**RStudio Shiny App**  
+![logo](media/cormatrix.jpg) ![logo](media/roc.jpeg) ![logo](media/shinyapp.jpg) 
 * This is an application to predict an employee's satisfaction level using Random Forest Tree method.
 * As data analyst, I collected data, found and validate the optimal model to predict outcome.
 * Technology: RStudio, RShiny, Programming R.
