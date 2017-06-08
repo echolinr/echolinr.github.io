@@ -13,27 +13,29 @@
 ## Projects 
 
 > 
-**USGS Earthquake Forecast Map Application**   
+**Earthquake Forecast Map Website for USGS**   
 ![logo](media/usgsmap.png) ![logo](media/usgsd3.png) 
-* My role: As developer, I created this hazard map website to show aftershock forecast of earthquakes.
-* Functionalities: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
+* Designed and developed a hazard map website for USGS to show aftershock forecast of earthquakes.
+* Key Features: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
 * Technology: Built the website With Angular 2 (and 4) and TypeScript, the interactive map with Leaflet, the report charts with D3, and created data server with Rest API in JSON format.
 * Github links: Hazard map [repo](https://github.com/echolinr/Ride-Share-API), Server API [repo](https://github.com/echolinr/USGS-MAP-API). 
 ---
-**Ride Share API**
-* My role: As developer, I created an Uber-like application with interactive drivers and passengers.
-* Functionalities: CRUD (drive, car, passenger and ride), authentication, versioning, encryption/hashing data, session API, unit testing and scale testing.
+**Ride Share API**  
+ ![logo](media/car.png)  ![logo](media/api2.png) 
+* Developed an Uber-like application with interactive drivers and passengers.
+* Key Features: CRUD (drive, car, passenger and ride), authentication, versioning, encryption/hashing data, session API, unit testing and scale testing.
 * Technology: Java, JavaScript, Spark, Jackson, MongoDB, MongoLink, Restful API.
 * Github link: [repo](https://github.com/echolinr/Ride-Share-API).
 ---
-**RStudio Shiny App**  
+**Data Analytics App for Employee's Satisfaction Level**  
 ![logo](media/cormatrix.jpg) ![logo](media/roc.jpeg) ![logo](media/shinyapp.jpg) 
 * This is an application to predict an employee's satisfaction level using Random Forest Tree method.
 * As data analyst, I collected data, found and validate the optimal model to predict outcome.
 * Technology: RStudio, RShiny, Programming R.
 * Github link: [repo](https://github.com/echolinr/shinyapp-hr-satisfaction).
 ---
-**Network Security Solutions**
+**Document System and Portal for Hillstone Security Products**  
+![logo](media/hsdoc.jpeg) 
 * Hands-on, documented and tested various cybersecurity products, including Next Generation Firewalls, Data Center Firewalls, Cloud Security solutions, Web Application Firewalls (WAF) and IPS.
 * Wrote techinical materials of functions like policy, routing, authentication, IPS, HA, VPN, AV, Sandbox, QoS, cloud cyber security. 
 * My work includes install guide, user guide, web help, quick start, tutorials, release notes, specification, use case, and more.
