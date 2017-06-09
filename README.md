@@ -2,12 +2,12 @@
 ## Skills
 
 <span class="tag">API Documentation</span>
-<span class="tag">HTML/CSS/JavaScript</span>
-<span class="tag">Java/NodeJS/MongoDB</span>
+<span class="tag">Java/JavaScript/HTML/CSS</span>
+<span class="tag">Angular 4/NodeJS/MongoDB</span>
 <span class="tag">Data Analytics/Machine Learning</span>
 <span class="tag">Cloud Computing</span>
 <span class="tag">Cyber Security</span> 
-<span class="tag">PMP Certified</span>
+<span class="tag">PMP Certified *1943876</span>
 <span class="tag">Agile/Scrum</span>
 
 ## Projects 
@@ -57,7 +57,7 @@ Here are some examples of my writing work.
 * Use this [link](http://docs.hillstonenet.com/en/Content/Cookbook/intro.htm) to see the book.
 ---
 **Cloud Security Firewall Guide** 
-* Owner of technical documents, marketing materials and training contents of Hillstone virtual firewall solutions installed on AWS, Aliyun,VMWare ESXi, KVM and OpenStack. 
+* First creator and owner of technical documents and training content of Hillstone cloud firewall software running on AWS, Aliyun,VMWare ESXi, KVM and OpenStack. 
 * Install Guide download link: [PDF](http://kb.hillstonenet.com/en/wp-content/uploads/2016/11/CloudEdge-Deployment-Guide-2.pdf).
 
 # Technology  
@@ -66,6 +66,7 @@ Here are some examples of my writing work.
 * **Language**: Java, JavaScript, SWIFT, HTML, CSS, XML, MarkDown, Angular, RESTful API, Node JS, MongoDB.
 * **Certificates**: PMP  (Project Management Professional) **#1943876**
 * **Tools**: Jekyll, DITA, Madcap Flare, RoboHelp, WebStorm, MS Office, Camtasia, InDesign, Illustrator, Visio.
+* **Network & Security**： Next Generation Firewall(NGFW), Intrution Prevention System(IPS), Web Application Firewall(WAF), Cloud Security, Malware Detection, Routing & Switching
 
 
 # Education 
