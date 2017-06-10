@@ -18,7 +18,7 @@
 * Designed and developed a hazard map website for USGS to show aftershock forecast of earthquakes.
 * Key Features: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
 * Technology: Built the website With Angular 2 (and 4) and TypeScript, the interactive map with Leaflet, the report charts with D3, and created data server with Rest API in JSON format.
-* Github links: Hazard map [repo](https://github.com/echolinr/Ride-Share-API), Server API [repo](https://github.com/echolinr/USGS-MAP-API). 
+* Github links: Hazard map [repo](https://github.com/echolinr/USGS-Earthquake-Forecast-Map), Server API [repo](https://github.com/echolinr/USGS-MAP-API). 
 ---
 **Ride Share API**  
  ![logo](media/car.png)  ![logo](media/api2.png) 

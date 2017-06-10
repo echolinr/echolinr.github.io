@@ -1,5 +1,5 @@
 - [<h2>Profile</h2>](/)
-- API Doc Sample
-  - [Earthquake Forecast](projects/project_a.md)
+- Web API 
+  - [Getting Started](projects/project_a.md)
 - 
-  - [Sample B](projects/project_b.md)
+  - [API Endpoint References](projects/project_b.md)
