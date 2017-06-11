@@ -1,5 +1,5 @@
 - [<h2>Profile</h2>](/)
-- Web API 
+- Web API Doc
   - [Getting Started](projects/project_a.md)
 - 
-  - [API Endpoint References](projects/project_b.md)
+  - [API References](projects/project_b.md)
