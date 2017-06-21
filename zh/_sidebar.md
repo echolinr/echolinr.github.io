@@ -1,6 +1,6 @@
 - [<h2>主页</h2>](/zh/)
 - 个人简介
-  - [Quick start](zh/profile.md)
+  - [个人网站](zh/profile.md)
 
 - 项目
-  - [Project A](zh/projects/project_a.md)
+  - [USGS ETAS网站](zh/projects/usgs-overview.md)

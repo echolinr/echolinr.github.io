@@ -1,5 +1,24 @@
-- [<h2>Profile</h2>](/)
-- Web API Doc
-  - [Getting Started](projects/project_a.md)
-- 
-  - [API References](projects/project_b.md)
+- [<h2>My Profile</h2>](/README.md)
+- Earthquake Forecast Map
+  - [Overview](projects/usgs-overview.md)
+  - [User Guide](projects/usgs-ug.md)
+  - [API references](projects/usgs-api.md)
+- Firewall User Guide Excerpts
+  - Deply your firewall
+    - [Overview](projects/firewall-overview.md)
+    - [How firewall works](projects/firewall-work.md)
+    - [Deploy transparent mode](projects/firewall-trans.md)
+    - [Deploy routing mode](projects/firewall-routing.md)
+    - [Deploy mix mode](projects/firewall-mix.md)
+    - [Deploy tap mode](projects/firewall-tap.md)
+  - Authentication
+    - [Overview](projects/firewall-auth.md)
+    - [Web-auth](projects/firewall-webauth.md)
+    - [Single Sign On (SSO)](projects/firewall-sso.md)
+    - [802.1x](projects/8021x.md)
+    - [PKI](projects/pki.md)
+-  Cookbook Excerpts
+  - [Cookbook overview](projects/cookbook-overview.md)
+  - [Cookbook recipe](projects/cookbook-recipe1.md)
+- VESA Deployment Guide
+  - [Download PDF](projects/vfw-deploy.md)

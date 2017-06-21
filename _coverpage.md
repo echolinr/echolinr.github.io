@@ -7,10 +7,9 @@
 
 > Technical Writer, API Documentation.
 
-- I am a tech-savvy technical writer with ability to write API documentation with code samples.
-- By diving into application development (HTML/CSS, Java/JavaScript, Rest API, Node JS), I create developer guides and online help for external API audiences.
-- Familiar with machine learning and data analytics concepts (linear regressions, tree models, support vector machines) and  extensive knowledge in cybersecurity.
-- I enjoy working in a fast-faced, cross-functional and agile development environment. 
+- Extensive experience in technical documentation, deep dive into API documentation and developer guides, familiar with authoring tools Madcap Flare, DITA, etc. 
+- Hands-on with web development using Java, JavaScript, HTML/CSS, JavaScript, Rest API, Node JS, MongoDB and more.
+- Innovative, curious and customer obssessed, keep pushing boundaries to improve user experience and translate ideas into text, visual and interactive playground.
 
 
 [My Profile](#profile) 

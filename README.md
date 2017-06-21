@@ -6,13 +6,20 @@
 <span class="tag">Angular 4/NodeJS/MongoDB</span>
 <span class="tag">Data Analytics/Machine Learning</span>
 <span class="tag">Cloud Computing</span>
-<span class="tag">Cyber Security</span> 
+<span class="tag">Network Security</span> 
 <span class="tag">PMP Certified *1943876</span>
 <span class="tag">Agile/Scrum</span>
+<span class="tag">Madcap Flare/DITA</span>
 
 ## Projects 
 
 > 
+**[Document Portal for Hillstone Security Products](http://docs.hillstonenet.com/en/Content/Home.htm)**  
+![logo](media/hsdoc.jpeg) 
+* Hands-on, documented and tested various cybersecurity products, including Next Generation Firewalls, Data Center Firewalls, Cloud Security solutions, Web Application Firewalls (WAF) and IPS.
+* Wrote techinical materials of functions like policy, routing, authentication, IPS, HA, VPN, AV, Sandbox, QoS, cloud cyber security. 
+* My work includes install guide, user guide, web help, quick start, tutorials, release notes, specification, use case, and more.
+---
 **Earthquake Forecast Map Website for USGS**   
 ![logo](media/usgsmap.png) ![logo](media/usgsd3.png) 
 * Designed and developed a hazard map website for USGS to show aftershock forecast of earthquakes.
@@ -34,11 +41,6 @@
 * Technology: RStudio, RShiny, Programming R.
 * Github link: [repo](https://github.com/echolinr/shinyapp-hr-satisfaction).
 ---
-**Document System and Portal for Hillstone Security Products**  
-![logo](media/hsdoc.jpeg) 
-* Hands-on, documented and tested various cybersecurity products, including Next Generation Firewalls, Data Center Firewalls, Cloud Security solutions, Web Application Firewalls (WAF) and IPS.
-* Wrote techinical materials of functions like policy, routing, authentication, IPS, HA, VPN, AV, Sandbox, QoS, cloud cyber security. 
-* My work includes install guide, user guide, web help, quick start, tutorials, release notes, specification, use case, and more.
 
 ## Writing Samples
 
@@ -46,7 +48,7 @@ Here are some examples of my writing work.
 > 
 **USGS Earthquake Forecast Deployment and API Documentation**  
 * An earthquake aftershock forecast web application using USGS forecast model.
-* Writing sample [link](projects/project_a.md).
+* Writing sample [link](projects/usgs-overview.md).
 ---
 **NG Firewall Deployment Guide**  
 * This section introduces basic data flow of a firewall device and its typical deployment modes.   
@@ -61,7 +63,6 @@ Here are some examples of my writing work.
 * Install Guide download link: [PDF](http://kb.hillstonenet.com/en/wp-content/uploads/2016/11/CloudEdge-Deployment-Guide-2.pdf).
 
 # Technology  
-
 > 
 * **Language**: Java, JavaScript, SWIFT, HTML, CSS, XML, MarkDown, Angular, RESTful API, Node JS, MongoDB.
 * **Certificates**: PMP  (Project Management Professional) **#1943876**
@@ -70,7 +71,6 @@ Here are some examples of my writing work.
 
 
 # Education 
-
 > 
 | MS in Software Engineering and Management 	|  |  | 
 |:---|---:|---:| 
@@ -79,9 +79,7 @@ Here are some examples of my writing work.
 * **Courses**: Project Management, Product Design, Architectural Programming Principles, Data Analytics, Cloud Computing, IoT     
 * **Projects**: USGS Earthquake Forecast Map Application (as web developer), Ride Share API (as developer). 
 
-
 # Experience
-
 > 
 |Graduate Research Assistant  |  |  |
 |:---|---:|---:| 
