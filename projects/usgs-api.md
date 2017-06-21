@@ -1,7 +1,7 @@
 
 # API Endpoint
 
-!> This document is still on going. Will be finalized soon.
+!> This is still a work in progress and should be ready soon.
 
 ## Get forecast by ID
 `api/forecasts/{filter}`
