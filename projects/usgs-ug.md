@@ -1,5 +1,7 @@
 # User Guide
 
+!> This is still a work in progress and should be ready soon.
+
 ## QuickStart
 When you open the website for the first time (or refresh the page), some regions on map are highlighted with radius and color. Click a point of your interest, it fetches data and zooms in to show forecast in the selected region. 
 
