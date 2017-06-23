@@ -5,7 +5,7 @@
 
 # Lin Zhai (Lynn)
 
-> Technical Writer, API Documentation.
+> PMP, Scrum Master, Technical Writer, API Documentation
 
 - Extensive experience in technical documentation, deep dive into API documentation and developer guides, familiar with authoring tools Madcap Flare, DITA, etc. 
 - Hands-on with web development using Java, JavaScript, HTML/CSS, JavaScript, Rest API, Node JS, MongoDB and more.

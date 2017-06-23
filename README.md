@@ -60,6 +60,7 @@
 
 > Network Security 
 <div> 
+<span class="tag">CCNA</span> 
 <span class="tag">next-generation firewall</span> 
 <span class="tag">virtual firewall</span> 
 <span class="tag">AWS</span> 
@@ -70,6 +71,8 @@
 <span class="tag">Web Application Firewall</span> 
 <span class="tag">Anti-virus</span> 
 <span class="tag">VPN</span> 
+<span class="tag">VPN</span> 
+<span class="tag">Hillstone Cerified Security Expert</span> 
 </div>
 
 ## Projects 
@@ -180,7 +183,7 @@ Here are some examples of my technical writing work.
 # Hobbies
 
 > 
-* A marathon runner, 10+ full marathons including Berlin, Tokyo, Seattle and Chicago.
+* A marathon runner, 10+ full marathons including Berlin, Tokyo, Osaka, Seattle and more.
 * A certified lifeguard with CPR, first aid and AED certification.
 * Trekked several holy mountains in Tibet (Amne Machin, Mount Kailash, etc).
 * A social worker at animal welfare NGO for more than ten years.
