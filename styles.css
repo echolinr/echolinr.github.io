@@ -894,6 +894,22 @@ section.cover.has-mask .mask{
     margin-top: 0.2rem;
 }
 
+.markdown-section .tag2{
+    color: var(--theme-color);
+    font-weight: bold;
+    display: inline-block;
+    font-size: 0.9rem;
+    letter-spacing: 1.6px;
+    letter-spacing: 0.1rem;
+    margin-right: 16px;
+    margin-right: 0.2rem;
+    padding: 5px 10px;
+    text-decoration: none;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    margin-top: 0.2rem;
+}
+
 /* code highlight */
 .token.cdata, .token.comment, .token.doctype, .token.prolog {
   color: #93a1a1; /* base1 */
