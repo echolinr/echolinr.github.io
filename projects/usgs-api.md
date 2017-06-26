@@ -1,10 +1,11 @@
 
-# API Endpoint
+# Get earthquake forecast data
 
-!> This is still a work in progress and should be ready soon.
+Retrieves earthquake probabilities at a given geolocation point during a future time period. 
 
-## Get forecast by ID
-`api/forecasts/{filter}`
+
+## URL
+GET http://localhost:8080/api/forecasts/filter
 
 Returns lists of available regions with forecast data, which including available region center point’s longitude, latitude and region radius. 
 Base URL: `http://localhost:8080`
