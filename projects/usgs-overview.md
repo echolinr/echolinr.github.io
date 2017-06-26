@@ -18,7 +18,7 @@ The 2014 U.S. Geological Survey (USGS)–United States National Seismic Hazard M
 ## Who is this website for?
 Anyone who wishes to get the statistic data and visual image of realtime earthquake forecasts. It is specifically designed for the public, emergency planners and the media.
 
-Developers can leverage our APIs to get probability data by passing geolocation, time and magnitude.
+Developers can leverage our APIs to get probability data by passing geolocation, time and intensity.
 
 ## Terminologies
 
@@ -30,7 +30,7 @@ gravity (g).
 Generally speaking,
 * 0.001 g (0.01 m/s²) – perceptible by people
 * 0.02  g (0.2  m/s²) – people lose their balance
-* 0.50  g – very high; well-designed buildings can survive if the duration is short.[7]
+* 0.50  g – very high; well-designed buildings can survive if the duration is short.
 
 **MMI**: Modified Mercalli Intensity (MMI) describes the strength of
 ground shaking felt at a location and the level of damage to buildings.
