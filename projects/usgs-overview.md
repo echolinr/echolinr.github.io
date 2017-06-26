@@ -5,7 +5,7 @@
 
 
 
-## What this website about?
+## What is this website about?
 
 This website shows the probabilistic forecasts of natural ground-shaking hazard in the form a near-real time intuitive map. 
 
