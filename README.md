@@ -34,13 +34,11 @@
 <span class="tag">Agile</span>
 <span class="tag">Scrum</span>
 <span class="tag">software development lifecycle (SDLC)</span> 
-
 <span class="tag">product strategy</span> 
 <span class="tag">requirement analysis</span> 
 <span class="tag">product validation</span> 
 <span class="tag">prototyping</span> 
 <span class="tag">wireframe</span> 
-
 <span class="tag">SaaS model analysis</span> 
 <span class="tag">budget and finance </span> 
 <span class="tag">business of software product</span> 
