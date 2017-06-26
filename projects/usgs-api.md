@@ -1,35 +1,35 @@
 
-# Get earthquake forecast data
+# Get a list of earthquake forecasts
 
 Retrieves earthquake probabilities at a given geolocation point during a future time period. 
 
 
 ## URL
-GET http://localhost:8080/api/forecasts/filter
+GET http://localhost:8080/api/forecasts/filter/{Forecast id}
 
 Returns lists of available regions with forecast data, which including available region center point’s longitude, latitude and region radius. 
 Base URL: `http://localhost:8080`
 
-### Method
+## Method
 <button>GET</button>
 
-### Request Parameters
-
-| Parameter	| Description | Data Type |
-| :--- | :---| :---|
-| tstart| The start date of forecast.| String. The format is `yyyy-mm-dd`. For example: 2016-05-03 	|
-| tend | The end date of the forecast. | String. The format is `yyyy-mm-dd`. For example: 2016-05-03 |
-| latitude | latitude of a geolocation | 	 |
-| longitude |  longitude of a geolocation | |
-| radius |radius of query region | |
-
-
-### Sample Request
+## Sample Request
 ```
 curl --get --include 'http://localhost:8080/api/forecasts/filter?id=29042a9c-0c5c-4317-b0ad-133260a0d56f&longitude=-121&latitude=36&radius=100&tstart=2016-05-02%2009%3A42%3A19&tend=2016-05-03%2009%3A42%3A19
 ```
 
-### Sample Response
+## Request Parameters
+
+| Parameter	| Description | Data Type | Required | Notes
+| :--- | :---| :---| --- |--- |
+| tstart| The start date of forecast | date. The format is `yyyy-mm-dd`. For example: `2016-05-02` | Optional | If not specified, the default start date is tomorrow, which is the earliest date available in the database. | 
+| tend | The end date of the forecast | date. The format is `yyyy-mm-dd`. For example: `2016-05-03` | Optional | If not specified, the default end date is the last day available in the database. It varies from 3 months to 10 years.| 
+| latitude | The latitude of a geolocation | number | Optional | Default is the center point of map view. If specified, values will be clamped to the range [-90, 90]. |
+| longitude | The longitude of a geolocation  | number | Optional | Default is the center point of map view. If specified, values outside range will be clamped to [-180, 180]. |
+| radius | The radius in meters on the earth surface | number | Optional | Default is 100. |
+
+
+## Sample Response
 ```html
      {
         "_id": "593befd6e88fa7480637dc9e",
