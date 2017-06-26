@@ -3,51 +3,28 @@
 
 !> This is still a work in progress and should be ready soon.
 
-## Why earthquake aftershocks matter?
 
-In the past 15 years, timedependent
-earthquake probabilities based on a generic short-term
-clustering model have been made publicly available in near-real
-time during major earthquake sequences.
 
-These forecasts describe
-the probability and number of events that are, on average, likely to
-occur following a mainshock of a given magnitude, but are not
-tailored to the particular sequence at hand and contain no
-information about the likely locations of the aftershocks.
+## What this website about?
 
-## What makes our model special?
-Our
-model builds upon the basic principles of this generic forecast
-model in two ways: it recasts the forecast in terms of the probability
-of strong ground shaking, and it combines an existing timeindependent
-earthquake occurrence model based on fault data
-and historical earthquakes5 with increasingly complex models
-describing the local time-dependent earthquake clustering.
+This website shows the probabilistic forecasts of natural ground-shaking hazard in the form a near-real time intuitive map. 
 
-The
-result is a time-dependent map showing the probability of strong
-shaking anywhere in California within the next 24 hours. The
-seismic hazard modelling approach we describe provides a better
-understanding of time-dependent earthquake hazard, and increases
-its usefulness for the public, emergency planners and the media.
+The forecasts describe the probability and magnitude of events that are likely to occur about the given location. 
 
-The 2014 U.S. Geological Survey (USGS)–United States National
-Seismic Hazard Model (NSHM) provides probabilistic
-forecasts of locations, magnitudes, and rates of future natural
-(tectonic) earthquakes, as well as estimates of long-term (based
-on a 50-year horizon) ground-shaking hazard
+The theorectical model builds upon two principles: the probability of strong gound shaking, and timeindependent earthquake occurence (based on fault data and historical earthquakes).
+
+The 2014 U.S. Geological Survey (USGS)–United States National Seismic Hazard Model (NSHM) provides the forecast.
 
 ## Who is this website for?
-Anyone who wish to learn realtime earthquake aftershocks. Developers can leverage our APIs to get seismic data.
+Anyone who wish to get the statistic data and visual image of realtime earthquake forecast. It is specifically designed for the public, emergency planners and the media.
 
+Developers can leverage our APIs to get probability data by passing geolocation, time and magnitude.
 
 ## Terminologies
 
-Ground motions reach 0:6g horizontal peak
-ground acceleration (PGA) in
+PGA: Peak Ground Acceleration (PGA) describes the strength of the
+maximum ground shaking at a location as a fraction of the force of
+gravity (g).
 
-modified
-Mercalli intensity (MMI)
-
-probability
+MMI: Modified Mercalli Intensity (MMI) describes the strength of
+ground shaking felt at a location and the level of damage to buildings.

@@ -9,6 +9,7 @@
 </div>
 
 
+
 ## Skills
 
 > Technical Writing 
@@ -18,17 +19,31 @@
 <span class="tag">DITA</span>
 <span class="tag">topic based authoring</span>
 <span class="tag">content management</span>
-<span class="tag">GUI document</span> 
+<span class="tag">GUI documentation</span> 
 <span class="tag">developer guide</span> 
 <span class="tag">online help</span> 
+<span class="tag">release notes</span> 
+
 </div>
 
 
 > Product and Project Management
 <div> 
 <span class="tag">PMP certified #1943876</span>
+<span class="tag">Scrum Master</span> 
 <span class="tag">Agile</span>
 <span class="tag">Scrum</span>
+<span class="tag">software development lifecycle (SDLC)</span> 
+
+<span class="tag">product strategy</span> 
+<span class="tag">requirement analysis</span> 
+<span class="tag">product validation</span> 
+<span class="tag">prototyping</span> 
+<span class="tag">wireframe</span> 
+
+<span class="tag">SaaS model analysis</span> 
+<span class="tag">budget and finance </span> 
+<span class="tag">business of software product</span> 
 </div>
 
 > Software Engineering
@@ -41,7 +56,7 @@
 <span class="tag">Node JS</span>
 <span class="tag">REST API</span>
 <span class="tag">MongoDB</span>
-<span class="tag">Cloud Computing</span>
+<span class="tag">cloud computing</span>
 <span class="tag">AWS</span>
 <span class="tag">Google Compute Engine</span>
 <span class="tag">Hadoop</span>
@@ -61,18 +76,20 @@
 > Network Security 
 <div> 
 <span class="tag">CCNA</span> 
-<span class="tag">next-generation firewall</span> 
-<span class="tag">virtual firewall</span> 
+<span class="tag">Hillstone Cerified Security Expert (HCSE)</span> 
+<span class="tag">routing</span> 
+<span class="tag">switch</span> 
+<span class="tag">VPN</span> 
+<span class="tag">intrusion prevention system (IPS)</span> 
+<span class="tag">Anti-virus</span> 
 <span class="tag">AWS</span> 
 <span class="tag">VMware</span> 
 <span class="tag">KVM</span> 
 <span class="tag">OpenStack</span> 
+<span class="tag">next-generation firewall</span> 
+<span class="tag">virtual firewall</span> 
 <span class="tag">data center firewall</span> 
 <span class="tag">Web Application Firewall</span> 
-<span class="tag">Anti-virus</span> 
-<span class="tag">VPN</span> 
-<span class="tag">VPN</span> 
-<span class="tag">Hillstone Cerified Security Expert</span> 
 </div>
 
 ## Projects 
