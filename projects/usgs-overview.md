@@ -1,9 +1,6 @@
 
 # Overview 
 
-!> This is still a work in progress and should be ready soon.
-
-
 
 ## What is this website about?
 
