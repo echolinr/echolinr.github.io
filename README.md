@@ -106,7 +106,7 @@
 
 > 
 **Earthquake Forecast Map Website for USGS**   
-![logo](media/usgsmap.png) ![logo](media/usgsd3.png) 
+![logo](media/usgsmap.png) 
 * Designed and developed a hazard map website for USGS to show aftershock forecast of earthquakes.
 * Key Features: heatmap (showing harzard probabilities), search region, date and severity selection, pin a region, probability line chart and histgram, step-by-step tutorial, API to fetech data. 
 * Technology: Built the website With Angular 2 (and 4) and TypeScript, the interactive map with Leaflet, the report charts with D3, and created data server with Rest API in JSON format.
