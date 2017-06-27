@@ -23,7 +23,6 @@
 <span class="tag">developer guide</span> 
 <span class="tag">online help</span> 
 <span class="tag">release notes</span> 
-
 </div>
 
 
@@ -44,32 +43,6 @@
 <span class="tag">business of software product</span> 
 </div>
 
-> Software Engineering
-<div> 
-<span class="tag">Java</span>
-<span class="tag">JavaScript</span>
-<span class="tag">HTML</span>
-<span class="tag">CSS</span>
-<span class="tag">Angular 2/4</span>
-<span class="tag">Node JS</span>
-<span class="tag">REST API</span>
-<span class="tag">MongoDB</span>
-<span class="tag">cloud computing</span>
-<span class="tag">AWS</span>
-<span class="tag">Google Compute Engine</span>
-<span class="tag">Hadoop</span>
-</div>
-
-> Data Analytics
-<div> 
-<span class="tag">data analytics</span>
-<span class="tag">machine learning</span>
-<span class="tag">linear regression</span>
-<span class="tag">decision tree</span>
-<span class="tag">Programming R</span> 
-<span class="tag">RStudio</span> 
-<span class="tag">RStudio Shiny</span>
-</div>
 
 > Network Security 
 <div> 
@@ -89,6 +62,36 @@
 <span class="tag">data center firewall</span> 
 <span class="tag">Web Application Firewall</span> 
 </div>
+
+
+> Software Engineering
+<div> 
+<span class="tag">Java</span>
+<span class="tag">JavaScript</span>
+<span class="tag">HTML</span>
+<span class="tag">CSS</span>
+<span class="tag">Angular 2/4</span>
+<span class="tag">Node JS</span>
+<span class="tag">REST API</span>
+<span class="tag">MongoDB</span>
+<span class="tag">cloud computing</span>
+<span class="tag">AWS</span>
+<span class="tag">Google Compute Engine</span>
+<span class="tag">Hadoop</span>
+</div>
+
+
+> Data Analytics
+<div> 
+<span class="tag">data analytics</span>
+<span class="tag">machine learning</span>
+<span class="tag">linear regression</span>
+<span class="tag">decision tree</span>
+<span class="tag">Programming R</span> 
+<span class="tag">RStudio</span> 
+<span class="tag">RStudio Shiny</span>
+</div>
+
 
 ## Projects 
 
