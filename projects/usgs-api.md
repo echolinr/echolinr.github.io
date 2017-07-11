@@ -1,8 +1,7 @@
 
-# Get a list of earthquake forecasts
+# API Endpoint
 
-Retrieves earthquake probabilities at a given geolocation point during a future time period. 
-
+This website provides a `GET` methods for developers to retrieve earthquake probabilities at a given geolocation of a future time period. 
 
 ## URL
 GET http://localhost:8080/api/forecasts/filter/

@@ -1,7 +1,9 @@
 # User Guide
 
+Here are the key functions of this website.
+
 ## QuickStart
-When you open the website for the first time (or refresh the page), some regions on map are highlighted with radius and color. Click a point of your interest, it fetches data and zooms in to show forecast in the selected region. 
+When you open the website for the first time (or refresh the page), some regions on map are highlighted with radius in red color. Click a point of your interest, it fetches data and zooms in to show forecast in the selected region. 
 
 ![logo](media/usgs.png)
 

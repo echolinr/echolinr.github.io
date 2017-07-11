@@ -4,18 +4,15 @@
 
 ## What is this website about?
 
-This website shows the probabilistic forecasts of natural ground-shaking hazard in the form a near-real time intuitive map. 
+This website shows the probabilistic forecasts of natural ground-shaking hazard in the form a near-real time intuitive map. To be more specific, the forecasts describe the probability and magnitude of events that are likely to occur about the given location. 
 
-The forecasts describe the probability and magnitude of events that are likely to occur about the given location. 
+The theorectical model builds upon two principles: the probability of strong gound shaking, and timeindependent earthquake occurence (based on fault data and historical earthquakes). The 2014 U.S. Geological Survey (USGS)–United States National Seismic Hazard Model (NSHM) provides the forecast.
 
-The theorectical model builds upon two principles: the probability of strong gound shaking, and timeindependent earthquake occurence (based on fault data and historical earthquakes).
+## Who are the audiences of this website?
 
-The 2014 U.S. Geological Survey (USGS)–United States National Seismic Hazard Model (NSHM) provides the forecast.
-
-## Who is this website for?
 Anyone who wishes to get the statistic data and visual image of realtime earthquake forecasts. It is specifically designed for the public, emergency planners and the media.
 
-Developers can leverage our APIs to get probability data by passing geolocation, time and intensity.
+Developers can leverage forecast APIs to get probability data by passing geolocation, time and intensity.
 
 ## Terminologies
 
