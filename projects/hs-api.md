@@ -29,7 +29,6 @@ The response includes the SN (serial number) of each device connected. The respo
             <app-version>555-3129</app-version>
             <av-version>2254-2693</av-version>
             <threat-version>555-3129</threat-version>
-            <url-db>paloaltonetworks</url-db>
             <url-filtering-version>2016.02.02.416</url-filtering-version>
             <logdb-version>6.1.3</logdb-version>
 <!--truncated -->
