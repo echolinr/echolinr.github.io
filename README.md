@@ -1,13 +1,14 @@
 
 # A Little Introduction
 
-**Hi, Nice to meet you here! Let me introduce myself! I am passionate about:**
-<div>
-<span class="tag22">#API documentation</span>
-<span class="tag22">#product and project management</span>
-<span class="tag22">#software engineering</span>
-</div>
+**Hi, Nice to meet you here! Let me introduce myself!**
 
+**I am good at:**
+<div>
+<span class="tag2">#API documentation</span>
+<span class="tag2">#product and project management</span>
+<span class="tag2">#web development</span>
+</div>
 
 
 ## Skills
@@ -18,11 +19,7 @@
 <span class="tag2">Madcap Flare</span> 
 <span class="tag2">DITA</span>
 <span class="tag2">topic based authoring</span>
-<span class="tag2">content management</span>
-<span class="tag2">GUI documentation</span> 
 <span class="tag2">developer guide</span> 
-<span class="tag2">online help</span> 
-<span class="tag2">release notes</span> 
 </div>
 
 
@@ -30,17 +27,8 @@
 <div> 
 <span class="tag2">PMP certified #1943876</span>
 <span class="tag2">Scrum Master</span> 
-<span class="tag2">Agile</span>
-<span class="tag2">Scrum</span>
 <span class="tag2">software development lifecycle (SDLC)</span> 
-<span class="tag2">product strategy</span> 
-<span class="tag2">requirement analysis</span> 
-<span class="tag2">product validation</span> 
-<span class="tag2">prototyping</span> 
-<span class="tag2">wireframe</span> 
 <span class="tag2">SaaS model analysis</span> 
-<span class="tag2">budget and finance </span> 
-<span class="tag2">business of software product</span> 
 </div>
 
 
@@ -52,46 +40,61 @@
 <span class="tag2">switch</span> 
 <span class="tag2">VPN</span> 
 <span class="tag2">intrusion prevention system (IPS)</span> 
-<span class="tag2">Anti-virus</span> 
-<span class="tag2">AWS</span> 
-<span class="tag2">VMware</span> 
-<span class="tag2">KVM</span> 
-<span class="tag2">OpenStack</span> 
-<span class="tag2">next-generation firewall</span> 
-<span class="tag2">virtual firewall</span> 
-<span class="tag2">data center firewall</span> 
-<span class="tag2">Web Application Firewall</span> 
 </div>
 
 
 > Software Engineering
 <div> 
-<span class="tag2">Java</span>
 <span class="tag2">JavaScript</span>
 <span class="tag2">HTML</span>
 <span class="tag2">CSS</span>
 <span class="tag2">Angular 2</span>
 <span class="tag2">Node JS</span>
+<span class="tag2">Java</span>
 <span class="tag2">REST API</span>
 <span class="tag2">MongoDB</span>
 <span class="tag2">cloud computing</span>
-<span class="tag2">AWS</span>
-<span class="tag2">Google Compute Engine</span>
-<span class="tag2">Hadoop</span>
 </div>
 
 
 > Data Analytics
 <div> 
 <span class="tag2">data analytics</span>
-<span class="tag2">machine learning</span>
-<span class="tag2">linear regression</span>
-<span class="tag2">decision tree</span>
 <span class="tag2">Programming R</span> 
 <span class="tag2">RStudio</span> 
 <span class="tag2">RStudio Shiny</span>
 </div>
 
+
+# Education 
+> 
+MS in Software Engineering and Management  
+Carnegie Mellon University  |	Aug 2016 - Aug 2017   
+* **GPA**: 3.96 	  
+* **Courses**: Project Management, Product Design, Architectural Programming Principles, Data Analytics, Cloud Computing, IoT     
+* **Projects**: USGS Earthquake Forecast Map Application (as web developer), Ride Share API (as developer). 
+
+# Experience
+> 
+ Full Stack Developer (Graduate Assistant)  
+ Carnegie Mellon University & USGS |  Jan 2017 - Jun 2017  | Mountain View, CA  
+* Developed USGS earthquake aftershock forecast web application using Java, Angular 2, Node JS, and MongoDB. 
+* Use Leaflet library to create interactive map web application. 
+* Use D3 library to generate earthquake animated shake histogram and line chart.  
+---
+Lead Technical Writer    
+Hillstone Networks Inc.  |   2010 - 2012 & 2014 - 2016  | Beijing, China & Sunnyvale, CA  
+* **Leadership and adaptiveness**: Managed a team of five tech writers to develop the documentation system for all company products; cared about employees career development growth; adjusted their work focus and provided different training opportunities based on their preference of future plan.
+* **Proactive and able**: Innovated and built the first and only document [portal](http://docs.hillstonenet.com/en/Content/Home.htm) which serves thousands of customers in learning the company’s products; moved team from PDF-only deliverables to HTML + PDF with Madcap Flare. 
+* **Technology and mindset innovator**: Introduced a new authoring tool and trained the team with a new writing methodology, which improved our efficiency by 30% in terms of document quantity, reusability and file format. 
+* **Teamwork and ownership**: Reviewed UI elements for all products and made changes in workflow, wording, consistency and design.
+---
+Business Analyst & Scrum Master   
+Avanade (owned by Accenture) 	|   2012 - 2014	|  Beijing, China	 
+* As the business analyst (BA), gathered and analyzed user requirements from customers to build the customized Microsoft Dynamic CRM system for the largest China bank.
+* As the scrum master (SM), reviewed sprint plans, maintained project scope, estimated and scheduled resources for agile development processes, and ensured the completion of each sprint.
+---
+          		    		
 
 ## Programming Projects 
 
@@ -161,37 +164,6 @@ Here are some examples of my technical writing work.
 * **Network & Security**： Next Generation Firewall(NGFW), Intrution Prevention System(IPS), Web Application Firewall(WAF), Cloud Security, Malware Detection, Routing & Switching
 
 
-# Education 
-> 
-MS in Software Engineering and Management  
- 
-Carnegie Mellon University  |	Aug 2016 - Aug 2017   
-* **GPA**: 3.96 	  
-* **Courses**: Project Management, Product Design, Architectural Programming Principles, Data Analytics, Cloud Computing, IoT     
-* **Projects**: USGS Earthquake Forecast Map Application (as web developer), Ride Share API (as developer). 
-
-# Experience
-> 
- Graduate Research Assistant  (web developer)   
- Carnegie Mellon University |  Jan 2017 - May 2017  | Mountain View, CA  
-* Design and develop USGS earthquake aftershock forecast web application using Java, Angular 2, Node JS, and MongoDB. 
-* Use Leaflet library to create interactive map web application. 
-* Use D3 library to generate earthquake animated shake histogram and line chart.  
----
-Lead Technical Writer    
-Hillstone Networks Inc.  |   2010 - 2012 & 2014 - 2016  | Beijing, China & Sunnyvale, CA  
-* **Leadership and adaptiveness**: Managed a team of five tech writers to develop the documentation system for all company products; cared about employees career development growth; adjusted their work focus and provided different training opportunities based on their preference of future plan.
-* **Proactive and able**: Innovated and built the first and only document [portal](http://docs.hillstonenet.com/en/Content/Home.htm) which serves thousands of customers in learning the company’s products; moved team from PDF-only deliverables to HTML + PDF with Madcap Flare. 
-* **Technology and mindset innovator**: Introduced a new authoring tool and trained the team with a new writing methodology, which improved our efficiency by 30% in terms of document quantity, reusability and file format. 
-* **Teamwork and ownership**: Reviewed UI elements for all products and made changes in workflow, wording, consistency and design.
----
-Business Analyst & Scrum Master   
-Avanade (owned by Accenture) 	|   2012 - 2014	|  Beijing, China	 
-* As the business analyst (BA), gathered and analyzed user requirements from customers to build the customized Microsoft Dynamic CRM system for the largest China bank.
-* As the scrum master (SM), reviewed sprint plans, maintained project scope, estimated and scheduled resources for agile development processes, and ensured the completion of each sprint.
----
-Sr. Technical Writer & Interpreter   
-Topsec Network Security Technologies | 2008 - 2010	| Beijing, China             		    		
 
 # Hobbies
 

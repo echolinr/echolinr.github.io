@@ -1,4 +1,4 @@
-# Query Device's Basic Info
+# Query a Device from CMS (API)
 
 This queries allow you to retrieve the data of a managed device through cerntral management system (CMS). The queries are redirected by CMS helps to reduce time and repetitive commands. Use the scripting language of your choice to store device serial numbers and use them to issue a query to several devices.
 

@@ -2,6 +2,6 @@
 - Earthquake Forecast Map
   - [Overview](projects/usgs-overview.md)
   - [User Guide](projects/usgs-ug.md)
-  - [API references](projects/usgs-api.md)
+  - [API References](projects/usgs-api.md)
 - XML API Use Case
-  - [Query Device Info](projects/hs-api.md)
+  - [Query Devices](projects/hs-api.md)

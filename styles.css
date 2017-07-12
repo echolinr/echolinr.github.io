@@ -412,7 +412,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle{
 }
 
 .markdown-section td{
-  border: none;
+  border: 1px solid gray;
   padding: 6px 13px;
 }
 
@@ -753,7 +753,7 @@ section.cover.has-mask .mask{
 
 .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section strong {
   color: #333;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .markdown-section a {
@@ -945,7 +945,7 @@ section.cover.has-mask .mask{
 }
 
 .markdown-section pre>code {
-  background-color: #f8f8f8;
+  background-color: #BEC8CE;
   border-radius: 2px;
   display: block;
   font-family: Inconsolata;
