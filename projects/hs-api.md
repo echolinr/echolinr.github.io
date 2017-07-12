@@ -40,11 +40,11 @@ The response includes the SN (serial number) of each device connected. The respo
 ```
 
 
-## Step2. Store device SN.
+## Step2. Store device serial number
 
 In your code, store the device serial numbers (SN) returned in the response to the previous request.
 
-## Query one device
+## Step 3. Query one device
 
 A normal request to show system information on a device looks like this:
 ```
