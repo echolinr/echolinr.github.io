@@ -3,5 +3,3 @@
   - [Overview](projects/usgs-overview.md)
   - [User Guide](projects/usgs-ug.md)
   - [API References](projects/usgs-api.md)
-- XML API Use Case
-  - [Query Devices](projects/hs-api.md)
